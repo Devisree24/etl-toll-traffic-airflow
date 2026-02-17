@@ -50,6 +50,3 @@ etl-toll-traffic-airflow/
 - [Project Report](docs/ETL_Project_Report.pdf)
 - [Setup and Deployment Commands](COMMANDS.md)
 
-## Author
-
-Devi Sree Pendyala
